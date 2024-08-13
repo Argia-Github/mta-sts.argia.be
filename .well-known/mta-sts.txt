@@ -1,5 +1,5 @@
 version: STSv1
 mode: testing
-mx: mx1.mailprotect.be
-mx: mx2.backup.mailprotect.be
+mx: mx.mailprotect.be
+mx: mx.backup.mailprotect.be
 max_age: 1209600
